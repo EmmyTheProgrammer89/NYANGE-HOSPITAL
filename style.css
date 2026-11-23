@@ -1,1 +1,6 @@
-
+.asidebar{
+  display:flex;
+  margin:20px;
+  background-color:#ffa;
+  color:white;
+}
