@@ -1,6 +1,23 @@
-.asidebar{
-  display:flex;
-  margin:20px;
-  background-color:#ffa;
+.navigator{
+  display:inline-block;
+  text-decoration:none;
+  margin:2px;
+  background-color:#000;
   color:white;
+  padding:10px;
+}
+a {
+  text-decoration: none;
+  color: gold;
+  justify-content:space-between;
+  padding:5px;
+  font-size:1.2rem;
+  margin:10px auto;
+}
+a:hover {
+  text-decoration: none;
+  color:white;
+  background-color:green;
+  border:1px solid yellow;
+  border-radius:5px;
 }
