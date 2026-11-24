@@ -37,9 +37,5 @@ img{
   align-items:center;
   margin:10px 30ps;
 }
-p{
-   display: flex;
-  justify-content: flex-end; 
-  align-items: flex-start;   
-  height: 400px; 
+ 
   
