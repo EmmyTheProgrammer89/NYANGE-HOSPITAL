@@ -1,1 +1,1 @@
-<img width="4096" height="4096" alt="car" src="https://github.com/user-attachments/assets/cb75627f-7988-49f3-80b6-6e7ed9902800" />
+<img width="1672" height="941" alt="Umurenge wa Nyange Website Yacu" src="https://github.com/user-attachments/assets/a375ae60-31f8-476a-b840-305ea5c570ae" />
