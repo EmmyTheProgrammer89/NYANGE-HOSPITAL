@@ -1,2 +1,1 @@
-<img src="blob:chrome-untrusted://media-app/ae1fea95-493f-424b-908a-50e641ac0b61" alt="rcascoherrera-attack-8735013.jpg"/>
-
+<img src="blob:chrome-untrusted://media-app/ce6c47f0-2af2-402b-8c76-699bc4d791d3" alt="rcascoherrera-attack-8735013.jpg"/>
