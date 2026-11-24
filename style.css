@@ -24,6 +24,7 @@ a:hover {
   border-radius:5px;
 }
 video{
+  display:iniline-block;
   margin:20px auto;
   width:400px;
   height:300px;
