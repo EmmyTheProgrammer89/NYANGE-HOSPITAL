@@ -25,13 +25,13 @@ a:hover {
 }
 video{
   margin:20px auto;
-  width:300px;
+  width:400px;
   height:300px;
   align-items:center;
 }
 img{
   background-color:blue;
-  max-width:300px;
+  max-width:400px;
   max-height:400px;
   align-items:center;
 }
