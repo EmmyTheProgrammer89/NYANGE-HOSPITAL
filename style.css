@@ -27,10 +27,12 @@ video{
   margin:20px auto;
   width:300px;
   height:300px;
+  align-items:center;
 }
 img{
   background-color:blue;
   max-width:300px;
   max-height:400px;
+  align-items:center;
 }
   
