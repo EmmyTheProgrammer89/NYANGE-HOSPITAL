@@ -25,6 +25,10 @@ a:hover {
 }
 video{
   margin:20px auto;
-  width:100px;
+  width:400px;
   height:600px;
+}
+img{
+  background-color:blue;
+}
   
