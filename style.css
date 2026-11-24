@@ -32,8 +32,8 @@ video{
 }
 img{
   background-color:blue;
-  max-width:400px;
-  max-height:400px;
+  max-width:1000px;
+  max-height:800px;
   align-items:center;
   margin:10px 30ps;
 }
